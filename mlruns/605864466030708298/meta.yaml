@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOPS_project/ml_project/mlruns/605864466030708298
+creation_time: 1753250738490
+experiment_id: '605864466030708298'
+last_update_time: 1753250738490
+lifecycle_stage: active
+name: Student Score Predictor

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS_project/ml_project/mlruns/605864466030708298/7cb057261fa64e4e9dc40182064647c9/artifacts
+end_time: 1753253740652
+entry_point_name: ''
+experiment_id: '605864466030708298'
+lifecycle_stage: active
+run_id: 7cb057261fa64e4e9dc40182064647c9
+run_name: blushing-crow-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253735770
+status: 3
+tags: []
+user_id: Nathi Roshini

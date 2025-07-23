@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS_project/ml_project/mlruns/605864466030708298/64d0dfb019cb42a4a3ef59b4c57f5e7c/artifacts
+end_time: 1753253918458
+entry_point_name: ''
+experiment_id: '605864466030708298'
+lifecycle_stage: active
+run_id: 64d0dfb019cb42a4a3ef59b4c57f5e7c
+run_name: aged-ram-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253913863
+status: 3
+tags: []
+user_id: Nathi Roshini

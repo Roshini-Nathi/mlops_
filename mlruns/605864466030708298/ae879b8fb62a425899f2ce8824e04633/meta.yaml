@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS_project/ml_project/mlruns/605864466030708298/ae879b8fb62a425899f2ce8824e04633/artifacts
+end_time: 1753253820810
+entry_point_name: ''
+experiment_id: '605864466030708298'
+lifecycle_stage: active
+run_id: ae879b8fb62a425899f2ce8824e04633
+run_name: whimsical-rook-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253816152
+status: 3
+tags: []
+user_id: Nathi Roshini
