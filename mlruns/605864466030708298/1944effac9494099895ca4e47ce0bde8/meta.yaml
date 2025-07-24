@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS_project/ml_project/mlruns/605864466030708298/1944effac9494099895ca4e47ce0bde8/artifacts
+end_time: 1753334516761
+entry_point_name: ''
+experiment_id: '605864466030708298'
+lifecycle_stage: active
+run_id: 1944effac9494099895ca4e47ce0bde8
+run_name: nervous-sponge-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334511969
+status: 3
+tags: []
+user_id: Nathi Roshini

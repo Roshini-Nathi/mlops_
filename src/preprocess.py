@@ -29,3 +29,5 @@ def clean_data():
     print("✅ Cleaned data saved to data/processed/cleaned.csv")
 
     return df
+if __name__=="__main__":
+    clean_data()
